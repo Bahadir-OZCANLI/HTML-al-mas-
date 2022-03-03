@@ -1,2 +1,2 @@
 # HTML-al-mas-
-Kodluyoruz eğitimi kapsamında HTML çalışması
+Kodluyoruz eğitimi kapsamında HTML calısması
